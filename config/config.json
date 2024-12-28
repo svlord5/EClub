@@ -1,0 +1,57 @@
+{
+  "site": {
+    "title": "E-Club",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/favicon.png",
+    "logo_width": "90",
+    "logo_height": "90",
+    "logo_text": "E-Club"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "",
+    "copyright": "Developed By [oneriki.tech](https://oneriki.tech/)"
+  },
+
+  "contact_info": {
+    "email": "eclubvdc@gitam.edu",
+    "location": "5th floor, GITAM Administration Bhavan, GITAM (Deemed to be) University, Vizag, India"
+  },
+
+  "nav_button": {
+    "enable": false,
+    "label": "Apply Now",
+    "link": "https://forms.gle/Ujjhz2jXrD6vEtsF6"
+  },
+
+  "metadata": {
+    "meta_author": "E-Club",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Unleash your Entrepreneurial Spirit"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "E-Club, Hyderabad",
+    "content": "To co-create activities focussing on student's active participation in the entrepreneurial ecosystem from various other clubs in the University, which in turn contributes to the vibrant functioning entrepreneurial ecosystem on the campus.",
+    "button": {
+      "label": "Join us now",
+      "link": "https://forms.gle/Ujjhz2jXrD6vEtsF6"
+    }
+  },
+
+  "disqus": {
+    "enable": false,
+    "shortname": "eclub_template",
+    "settings": {}
+  }
+}
