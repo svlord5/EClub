@@ -6,36 +6,38 @@ draft: false
 ## about us
 about_us:
   subtitle: WHAT ARE WE
-  title: Entrepreneurial Club
+  title: Entrepreneurs Club
   content: Unleash your Entrepreneurial Spirit
   image: /images/about/01.jpg
 
 ## our works
 works:
   subtitle: OUR WORKS
+
+
   title: What We Do
   list:
-    - title: Building A New Class
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Design For Anyone
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Creative Flair Design
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
-    - title: Building Products
-      content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
+    - title: Workshop & Bootcamp
+      content: This functions of E-Club plans and delivers a series of workshops and boot camps with the motive to foster skill-based education and awareness on entrepreneurship amongst the campus community.
+    - title: Event Management
+      content: This function of E-Club handles all the events of E-Club and VDC, as the success of any event depends largely on its planning and executing by timely obtaining all the necessary resources.
+    - title: Creative Design
+      content: This function of E-Club handles all the designing- both graphic and video stack. Also, they do the photo & video shooting, editing and releasing all the media of those programs or events on the campus by both E-Club & VDC.
+    - title: Marketing & Publicity
+      content: This function of E-Club aims to achieve the primary goal of any initiative taken by E-Club and VDC by spreading the awareness of those initiatives, tasks and programs.
 
 ## our mission
 mission:
   subtitle: OUR MISSION
   title: Main Vision And Mission Of Our Company
-  content: We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece .
+  content: To foster a dynamic and inclusive entrepreneurial ecosystem on campus by co-creating activities that encourage active student participation across various university clubs. Through collaborative efforts, we aim to nurture innovation, empower students, and contribute to a vibrant, thriving entrepreneurial environment.
   image: /images/about/02.jpg
 
 ## short video
 video:
   subtitle: A SHORT VIDEO
-  title: You Take Care Of The Payments, We Take Care Of The Rest.
-  description: Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistcy throughout the.
+  title: We are with you
+  description: We stand by your side, empowering your journey every step of the way.
   video_id: dyZcRRWiuuw
   thumbnail: /images/about/video-popup-2.jpg
 
@@ -73,8 +75,8 @@ our_member:
 
 ## office
 our_office:
-  subtitle: OUR OFFICES
-  title: Made With Love Of Around The </br> World With Many Offices
+  subtitle: OUR BACKBONE
+  title: Meet the team behind E-Club - VDC
   content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
   countries:
     - flag: /images/about/flags/au.png

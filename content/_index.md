@@ -43,7 +43,7 @@ features:
       content: This functions of E-Club plans and delivers a series of workshops and boot camps with the motive to foster skill-based education and awareness on entrepreneurship amongst the campus community.
     - icon: 'map'
       title: Event Management
-      content: his function of E-Club handles all the events of E-Club and VDC, as the success of any event depends largely on its planning and executing by timely obtaining all the necessary resources.
+      content: This function of E-Club handles all the events of E-Club and VDC, as the success of any event depends largely on its planning and executing by timely obtaining all the necessary resources.
     - icon: 'pen-tool'
       title: Creative Design
       content: This function of E-Club handles all the designing- both graphic and video stack. Also, they do the photo & video shooting, editing and releasing all the media of those programs or events on the campus by both E-Club & VDC.
@@ -55,7 +55,7 @@ features:
       content: This function of E-Club is responsible for everything you read and all the communications you get on the social media or otherwise regarding any events or programs of both the E-Club and VDC.
     - icon: 'tv'
       title: Marketing & Publicity
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus
+      content: This function of E-Club aims to achieve the primary goal of any initiative taken by E-Club and VDC by spreading the awareness of those initiatives, tasks and programs.
     - icon: 'message-circle'
       title: Speaker Series
       content: Events that hold the reputation as a platform where the GITAM fraternity can both gain the knowledge, and as well as get inspired by the life experiences and stories of successful personalities in the field of business i.e entrepreneurs, innovators, business executives, business-men and business-women.
