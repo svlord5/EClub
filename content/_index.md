@@ -4,12 +4,12 @@ speciality:
   primary:
     title: KNOW OUR VISION
     subtitle: 
-    description: To facilitate an active and thriving entrepreneurial ecosystem on the campus.
+    description: To facilitate an active and thriving entrepreneurial ecosystems on the campus.
     image: /images/OurVision.png
   secondary:
     title: KNOW OUR MISSION
     subtitle: 
-    description: To co-create activities focussing on student's active participation in the entrepreneurial ecosystem from various other clubs in the University, which in turn contributes to the vibrant functioning entrepreneurial ecosystem on the campus.
+    description: To co-create impactful initiatives that unite students from various university clubs, inspiring active participation and driving the growth of a vibrant, interconnected entrepreneurial ecosystem on the campus.
     image: /images/OurMission.png
 
 
