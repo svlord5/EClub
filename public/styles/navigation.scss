@@ -16,7 +16,7 @@
 
 // navbar items
 .navbar {
-  @apply relative flex flex-wrap items-center justify-between;
+  @apply relative flex flex-wrap items-center justify-between px-6;
 }
 
 .navbar-brand {
@@ -27,19 +27,15 @@
 }
 
 .navbar-nav {
-  @apply text-center md:text-left flex-[0_0_100%] lg:flex-auto;
+  @apply flex justify-center items-center space-x-6;
 }
 
 .nav-item {
-  @apply mx-3;
+  @apply mx-2;
 }
 
 .nav-link {
-  @apply p-3 text-[1rem] font-medium text-dark transition hover:text-primary lg:py-4 xl:px-3;
-
-  &.active {
-    @apply text-primary;
-  }
+  @apply p-2 text-[1rem] font-medium text-dark transition hover:text-primary;
 }
 
 .nav-dropdown {

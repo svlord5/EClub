@@ -3,9 +3,9 @@
     "title": "E-Club",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/favicon.png",
-    "logo_width": "90",
-    "logo_height": "90",
+    "logo": "/images/EClubLogo.png",
+    "logo_width": "100",
+    "logo_height": "60",
     "logo_text": "E-Club"
   },
 
