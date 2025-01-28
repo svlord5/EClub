@@ -2,11 +2,11 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#006b64",
+        "primary": "#007367",
         "body": "#ffff",
-        "border": "#006b64",
+        "border": "#007367",
         "border_secondary": "#ffece4",
-        "theme_light": "#fffaf3",
+        "theme_light": "#F4E4C9",
         "theme_dark": "#006b64"
       },
       "text_color": {
@@ -24,8 +24,8 @@
       "secondary_type": ""
     },
     "font_size": {
-      "base": "16",
-      "scale": "1.246"
+      "base": "15",
+      "scale": "1.25"
     }
   }
 }
