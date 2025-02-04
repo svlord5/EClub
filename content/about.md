@@ -63,15 +63,9 @@ our_member:
   title: The People Behind
   content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
   list:
-    - name: Valentin Staykov
-      field: Operations
-      image: /images/about/team/01.jpg
-    - name: Bukiakta Bansalo
-      field: Product
-      image: /images/about/team/02.jpg
-    - name: Ortrin Okaster
-      field: Engineering
-      image: /images/about/team/03.jpg
+    - name: Mihika
+      field: President of E-Club, Hyderabad
+      image: /images/GITAMvLogo.png  
 
 ## office
 our_office:
@@ -79,7 +73,7 @@ our_office:
   title: Meet the team behind E-Club - VDC
   content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
   countries:
-    - flag: /images/about/flags/au.png
+    - flag: /images/GITAMLogo_round.png
       name: VDC Office
       location: GITAM Hyderabad
     # - flag: /images/about/flags/au.png
