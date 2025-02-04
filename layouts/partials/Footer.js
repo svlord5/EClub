@@ -9,7 +9,7 @@ import Link from "next/link";
 const Footer = () => {
   const { copyright, footer_content } = config.params;
   const { email, phone, location } = config.contact_info;
-  return (
+  return ( //a
     <footer className="">
       <div className="container">
         <div className="row border-y border-border py-12">
