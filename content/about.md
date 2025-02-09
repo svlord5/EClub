@@ -73,7 +73,7 @@ our_office:
   title: Meet the team behind E-Club - VDC
   content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
   countries:
-    - flag: /images/GITAMLogo_round.png
+    - flag: /images/GITAM_VDC.png
       name: VDC Office
       location: GITAM Hyderabad
     # - flag: /images/about/flags/au.png
