@@ -61,7 +61,7 @@ clients:
 our_member:
   subtitle: OUR MEMBERS
   title: The People Behind
-  content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
+  content: 
   list:
     - name: Mihika
       field: President of E-Club, Hyderabad
@@ -71,7 +71,7 @@ our_member:
 our_office:
   subtitle: OUR BACKBONE
   title: Meet the team behind E-Club - VDC
-  content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
+  content: 
   countries:
     - flag: /images/GITAM_VDC.png
       name: VDC Office
