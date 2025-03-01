@@ -8,7 +8,7 @@ date: 2024-12-22T05:00:00Z
 draft: false
 ---
 E-Club Extravaganza 2024 was a day to remember! From engaging activities and fun ice-breakers to inspiring speeches by our esteemed coaches and alumni, we came together to celebrate our journey and the entrepreneurial spirit that drives us. 
-Thanks to our alumni **Mayukha** ([@mayukhaswarna_7](https://www.instagram.com/mayukhaswarna__7/))
+Thanks to our alumni **Mayukha**
 
 
 <Blockquote name="EClub's Extravaganza 2k24">
@@ -22,13 +22,9 @@ The E-Club Extravaganza 2024 was nothing short of spectacular! As we marked four
 
 From the moment the event kicked off, excitement and enthusiasm filled the air. The day was packed with engaging activities, fun ice-breakers, and thought-provoking discussions that set the tone for a celebration of innovation. Attendees had the opportunity to interact, network, and share ideas, creating an environment brimming with inspiration and motivation.
 
-<!-- <Notice type="info">
-Pictures related to this event are yet to be added, we apologize for the inconvenience!
-</Notice> -->
-
 #### Inspiring Words from Coaches & Alumni
 
-One of the most memorable highlights of the day was the inspiring speeches delivered by our esteemed coaches and alumni. Their words resonated deeply, sharing invaluable insights into the entrepreneurial journey, the challenges faced, and the perseverance required to turn ideas into reality. A special mention to our alumni, Mayukha ([@mayukhaswarna_7](https://www.instagram.com/mayukhaswarna__7/))
+One of the most memorable highlights of the day was the inspiring speeches delivered by our esteemed coaches and alumni. Their words resonated deeply, sharing invaluable insights into the entrepreneurial journey, the challenges faced, and the perseverance required to turn ideas into reality. A special mention to our alumni, **Mayukha**.
 , for gracing the event and sharing their experiences that continue to inspire the next generation of entrepreneurs.
 ![Image](/images/blog/DSC_0252.JPG)
 #### Building Connections & Strengthening Bonds
