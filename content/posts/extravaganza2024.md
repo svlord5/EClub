@@ -22,9 +22,9 @@ The E-Club Extravaganza 2024 was nothing short of spectacular! As we marked four
 
 From the moment the event kicked off, excitement and enthusiasm filled the air. The day was packed with engaging activities, fun ice-breakers, and thought-provoking discussions that set the tone for a celebration of innovation. Attendees had the opportunity to interact, network, and share ideas, creating an environment brimming with inspiration and motivation.
 
-<Notice type="info">
+<!-- <Notice type="info">
 Pictures related to this event are yet to be added, we apologize for the inconvenience!
-</Notice>
+</Notice> -->
 
 #### Inspiring Words from Coaches & Alumni
 
