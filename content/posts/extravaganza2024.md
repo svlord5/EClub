@@ -1,9 +1,9 @@
 ---
-title: Celebrating 4 Years of Innovation & Inspiration - E-Club Extravaganza 2024
+title: Celebrating 4 Years of Innovation & Inspiration, E-Club Extravaganza 2024
 image: /images/blog/01.jpg
 author:
-  name: Abdullah Al Shifat
-  avatar: /images/author/abdullah.jpg
+  name: Pardha Saradhi Kantamani
+  avatar: /images/author/Pardha_Saradhi.jpg
 date: 2024-12-22T05:00:00Z
 draft: false
 ---
